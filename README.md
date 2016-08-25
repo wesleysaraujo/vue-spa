@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vitrine-virtual
 
 > Catálogo de produto para venda
@@ -20,10 +20,5 @@ npm run lint
 
 # run unit tests
 npm test
-```
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
-=======
-# vue-spa
 Projeto usado no post sobre Vue.js - construindo SPA
->>>>>>> 8d4e4afad80810046bfdce0d3a7d47678380cd24
